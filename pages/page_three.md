@@ -1,6 +1,6 @@
 # Open Source Software in Nordic Literary Studies
 
-## This page explores an open-source project that could be useful for studying literature.
+## This page explores an open-source project that could be useful for studying literature
 
 As a major in Nordic literature, one might use the open-source program Voyant Tools for analysis of larger singular works or corpuses. Voyant Tools is helpful to “distant read”, which means to look at texts or corpuses at a distant, as opposed to close reading them. This might show structures previously unknown, such as how often a word is used in a specific category of text or how specific authors focus on words in context, which would be helpful if your major examines literary geography. In this thematic perspective of literature, you could for example examine “geographic attention”, which is when you examine how much attention an author or a specific category of text has on specific places. This is explicitly done in Hamsuns litterære geografi (2020) by Boasson and Johnsen, who examines how much attention the Norwegian author Knut Hamsun has on different places. 
 
@@ -13,6 +13,7 @@ The last commit was done three weeks ago, and there’s a total of nine contribu
 Voyant Tools is supported by universities, through research grants. 
 
 This tool could add some efficacy when it comes to my major. In any text-analysis it could help to see structures before hidden and provide alternative angles of interpretations. At the same time, I would not depend on it, it would simply make my life easier. 
+
 
 Sources: 
 
