@@ -8,11 +8,11 @@ Voyant Tools was made by Stéfan Sinclair and led by him until August 2020. From
 
 Voyant Tools uses a GPL3 license, as well as a Creative Commons By Attribution license. The benefits with a GPL3 license are that it lets its users free use and modification. However, if you were to modify it and distribute your modification, you have to make the source available under the same license. This is to make sure the modifications also remain open source. 
 
-The last commit was done three weeks ago, on 20th October and there’s a total of nine contributors. There is an active issues-reporting system on their GitHub, but some of the issues brought forth date as far back as 2021. At the same time, there are newer issues dating to last week, so it’s difficult to say whether they are answered or not. 
+The last commit was done three weeks ago, and there’s a total of nine contributors. There is an active issues-reporting system on their GitHub, but some of the issues date as far back as 2021. At the same time, there are newer issues dating to last week, so it’s difficult to say whether they are answered or not. 
 
-Lastly, Voyant Tools is partly economically supported by universities, through research grants and of course depend on volunteer contributions. 
+Voyant Tools is supported by universities, through research grants. 
 
-This tool definitely adds some efficacy when it comes to my major. If I am to work with literary geography or generally larger text analysis, it could help with seeing structures before hidden and provide different angles of interpretation. At the same time, I would not depend on it, it would simply make my life easier, so I could work without it as well. 
+This tool could add some efficacy when it comes to my major. In any text-analysis it could help to see structures before hidden and provide alternative angles of interpretations. At the same time, I would not depend on it, it would simply make my life easier. 
 
 Sources: 
 
