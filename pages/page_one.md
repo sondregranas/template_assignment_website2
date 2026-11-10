@@ -13,7 +13,5 @@ Lastly, the open-source programs do not depend on any single person, organizatio
 Sources: 
 
 (https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) 
-(https://www.reuters.com/technology/cybersecurity/why-near-miss-cyberattack-put-us-officials-tech-industry-edge-2024-04-05/)
-
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
