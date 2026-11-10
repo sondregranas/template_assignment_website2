@@ -2,7 +2,7 @@
 
 ## This is the headline of your first page
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+Open-source software is defined as software where the code is publicly available. This means that the software may be studied and changes may be proposed. Unlike closed source software this allows users greater freedom and control of the technology they use. It also makes the technology more transparent and the responsibility of identifying problems might be shared among more contributors.  
 
 Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
 
