@@ -8,7 +8,7 @@ For researcher on specific topics this may also provide an opportunity to adapt 
 
 Lastly, the open-source programs do not depend on any single person, organization or company to keep running. This could expand the programs life, since others may take control after their originators have pasted on. 
 
-Sources: 
+### Sources: 
 
 (https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) 
 
