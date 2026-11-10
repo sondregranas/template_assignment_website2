@@ -12,7 +12,7 @@ Security is also a factor separating open source from closed source software, bu
 
 So, there’s obviously nuances to the pros and cons of open source, as showed on this page and the previous. It should not automatically be considered better than closed source, since there’s advantages and disadvantages of them both. Open source is suitable in some instances. But its suitability depends on volunteers, that the programs are technologically accessible and that the security risk they might present is taken seriously.  
 
-Sources: 
+### Sources: 
 
 (https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)
 
