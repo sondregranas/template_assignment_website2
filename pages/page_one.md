@@ -11,6 +11,7 @@ For researcher on specific topics this may also provide an opportunity to adapt 
 Lastly, the open-source programs do not depend on any single person, organization or company to keep running. This makes it possible for useful tools to keep on living past their originators have pasted on to other project or died. This makes for long term development of complex programs, which obviously benefits them. 
 
 Sources: 
+
 (https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) 
 (https://www.reuters.com/technology/cybersecurity/why-near-miss-cyberattack-put-us-officials-tech-industry-edge-2024-04-05/)
 
