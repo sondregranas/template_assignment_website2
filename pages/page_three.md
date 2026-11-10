@@ -14,7 +14,7 @@ Voyant Tools is supported by universities, through research grants.
 
 This tool could add some efficacy when it comes to my major. In any text-analysis it could help to see structures before hidden and provide alternative angles of interpretations. At the same time, I would not depend on it, it would simply make my life easier. 
 
-Sources: 
+### Sources: 
 
 (https://www.researchgate.net/publication/347868361_Hamsuns_litteraere_geografi)
 
